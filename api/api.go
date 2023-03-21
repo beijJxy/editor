@@ -26,6 +26,6 @@ func (p *EditorApi) ApiName(c *gin.Context) {
 		response.FailWithMessage("失败", c)
 	} else {
 
-		response.OkWithDetailed(res, "成功", c)
+		response.OkWithDetailed(res, "成功,远程仓库", c)
 	}
 }
