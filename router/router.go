@@ -1,7 +1,7 @@
 package router
 
 import (
-	"editor/api"
+	"github.com/beijJxy/editor/api"
 	"github.com/gin-gonic/gin"
 )
 

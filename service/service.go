@@ -1,7 +1,7 @@
 package service
 
 import (
-	"editor/model"
+	"github.com/beijJxy/editor/model"
 )
 
 type EditorService struct{}

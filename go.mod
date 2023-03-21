@@ -1,4 +1,4 @@
-module editor
+module github.com/beijJxy/editor
 
 go 1.19
 

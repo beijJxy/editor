@@ -1,8 +1,8 @@
 package api
 
 import (
-	"editor/model"
-	"editor/service"
+	"github.com/beijJxy/editor/model"
+	"github.com/beijJxy/editor/service"
 	"github.com/flipped-aurora/gin-vue-admin/server/global"
 	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
 	"github.com/gin-gonic/gin"

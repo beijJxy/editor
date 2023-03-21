@@ -1,8 +1,8 @@
 package editor
 
 import (
-	"editor/global"
-	"editor/router"
+	"github.com/beijJxy/editor/global"
+	"github.com/beijJxy/editor/router"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,5 +1,5 @@
 package global
 
-import "editor/config"
+import "github.com/beijJxy/editor/config"
 
 var GlobalConfig = new(config.Editor)
